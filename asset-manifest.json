@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Natsuki8ks/webpage-m1/static/css/main.a6c76c36.chunk.css",
+    "main.css": "/Natsuki8ks/webpage-m1/static/css/main.abee6378.chunk.css",
     "main.js": "/Natsuki8ks/webpage-m1/static/js/main.9082367f.chunk.js",
     "main.js.map": "/Natsuki8ks/webpage-m1/static/js/main.9082367f.chunk.js.map",
     "runtime-main.js": "/Natsuki8ks/webpage-m1/static/js/runtime-main.32e6359f.js",
@@ -8,15 +8,15 @@
     "static/js/2.a94a7c02.chunk.js": "/Natsuki8ks/webpage-m1/static/js/2.a94a7c02.chunk.js",
     "static/js/2.a94a7c02.chunk.js.map": "/Natsuki8ks/webpage-m1/static/js/2.a94a7c02.chunk.js.map",
     "index.html": "/Natsuki8ks/webpage-m1/index.html",
-    "precache-manifest.1c96f703504ea5fa765b14eb202a0046.js": "/Natsuki8ks/webpage-m1/precache-manifest.1c96f703504ea5fa765b14eb202a0046.js",
+    "precache-manifest.b0800555f470d56bfbb44ec9e5e9e88f.js": "/Natsuki8ks/webpage-m1/precache-manifest.b0800555f470d56bfbb44ec9e5e9e88f.js",
     "service-worker.js": "/Natsuki8ks/webpage-m1/service-worker.js",
-    "static/css/main.a6c76c36.chunk.css.map": "/Natsuki8ks/webpage-m1/static/css/main.a6c76c36.chunk.css.map",
+    "static/css/main.abee6378.chunk.css.map": "/Natsuki8ks/webpage-m1/static/css/main.abee6378.chunk.css.map",
     "static/js/2.a94a7c02.chunk.js.LICENSE.txt": "/Natsuki8ks/webpage-m1/static/js/2.a94a7c02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32e6359f.js",
     "static/js/2.a94a7c02.chunk.js",
-    "static/css/main.a6c76c36.chunk.css",
+    "static/css/main.abee6378.chunk.css",
     "static/js/main.9082367f.chunk.js"
   ]
 }
