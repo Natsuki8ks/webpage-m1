@@ -5,6 +5,8 @@ import { FaBars, FaTimes } from 'react-icons/fa';
 import { Button } from './Button';
 import './Navbar.css';
 import { IconContext } from 'react-icons/lib';
+import Profile from './Profile/Profile' 
+
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -21,11 +23,19 @@ function Navbar() {
     }
   };
 
+  const profileClick = () => {
+    return (
+      <Profile />,
+      setClick(false)
+    );
+  }
+
   useEffect(() => {
     showButton();
   }, []);
 
   window.addEventListener('resize', showButton);
+
 
   return (
     <>
@@ -47,14 +57,15 @@ function Navbar() {
                 </Link>
               </li>
               <li className='nav-item'>
+                <Link to='/profile' className='nav-links' 
+                onClick={profileClick}>
+                  Profile
+                </Link>
+              </li>
+              <li className='nav-item'>
                 <Link to='/services' className='nav-links' onClick={closeMobileMenu}>
                   Services
                  </Link>
-              </li>
-              <li className='nav-item'>
-                <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
-                  Products
-                </Link>
               </li>
               <li className='nav-btn'>
                 {button ? (

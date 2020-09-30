@@ -5,8 +5,8 @@ import './HeroSection.css'
 
 
 function HeroSection({
-  lightBg, topLine, lightText, lightTextDesc, headline, description,buttonLabel, img, alt, imgStart
-}) {
+   lightBg, topLine, lightText, lightTextDesc, headline, description, buttonLabel, img, imgStart ,alt
+  }) {
   return (
     <>
       <div className={lightBg ? 
@@ -14,7 +14,7 @@ function HeroSection({
         <div className="container">
           <div 
           className="row home__hero-row"
-          styke={{sidplay: 'flex', flexDirection: imgStart === 'start' ? 'row-reverse' : 'row'}}
+          style={{display: 'flex', flexDirection: imgStart === 'start' ? 'row-reverse' : 'row'}}
           >
             <div className="col">
               <div className="home__hero-text-wrapper">
