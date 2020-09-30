@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Natsuki8ks/static/css/main.a6c76c36.chunk.css",
+    "main.js": "/Natsuki8ks/static/js/main.9082367f.chunk.js",
+    "main.js.map": "/Natsuki8ks/static/js/main.9082367f.chunk.js.map",
+    "runtime-main.js": "/Natsuki8ks/static/js/runtime-main.e958f999.js",
+    "runtime-main.js.map": "/Natsuki8ks/static/js/runtime-main.e958f999.js.map",
+    "static/js/2.a94a7c02.chunk.js": "/Natsuki8ks/static/js/2.a94a7c02.chunk.js",
+    "static/js/2.a94a7c02.chunk.js.map": "/Natsuki8ks/static/js/2.a94a7c02.chunk.js.map",
+    "index.html": "/Natsuki8ks/index.html",
+    "precache-manifest.3549c1c70ba4683655ba56cbb1c95cd7.js": "/Natsuki8ks/precache-manifest.3549c1c70ba4683655ba56cbb1c95cd7.js",
+    "service-worker.js": "/Natsuki8ks/service-worker.js",
+    "static/css/main.a6c76c36.chunk.css.map": "/Natsuki8ks/static/css/main.a6c76c36.chunk.css.map",
+    "static/js/2.a94a7c02.chunk.js.LICENSE.txt": "/Natsuki8ks/static/js/2.a94a7c02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e958f999.js",
+    "static/js/2.a94a7c02.chunk.js",
+    "static/css/main.a6c76c36.chunk.css",
+    "static/js/main.9082367f.chunk.js"
+  ]
+}
