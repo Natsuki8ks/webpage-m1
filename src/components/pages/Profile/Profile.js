@@ -12,7 +12,7 @@ function Profile(
       <div className='profile-container'>
         <div className="profile-col" style={{display: 'flex',}}>
           <div className="home__profile-img">
-            <img src='images/img1.svg' alt='' />
+            <img src='images/img1.png' alt='' />
           </div>
           <div className="home__profile-text">
           Hello! My name is Natsuki!
@@ -24,13 +24,13 @@ function Profile(
           I was a nurse.  But I want to become a frontend engineer!
           </div>
           <div className="home__profile-img">
-            <img src='images/img3.svg' alt='' />
+            <img src='images/img2.png' alt='' />
           </div>
         </div>
 
         <div className='profile-col' style={{display: 'flex',}}>
           <div className="home__profile-img">
-            <img src='images/img2.svg' alt='' />
+            <img src='images/img3.png' alt='' />
           </div>
           <div className="home__profile-description">
           I’m studying Programming right now. For example, HTML,CSS,JavaScript,React,    Gatsby,Docker,Linux,AWS...I have many things to learn more!
