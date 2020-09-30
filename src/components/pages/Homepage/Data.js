@@ -6,11 +6,11 @@ export const homeObjOne = {
   // headline: 'Unlimited Transactions with zero fees',
   headline: 'When it comes to impossible, we are experts',
   // description: 'Get access to our exclsive card that allows you to send unlimited transacrions without getting charged any fees',
-  description: "If you can't take your credit when you do something well, you're gonna be a bottom of piles forever.",
+  description: "If you can't take your credit when you do something well, you're gonna be the bottom of piles forever.",
   buttonLabel: 'Get started',
   imgStart: '',
-  img: 'images/svg-4.svg',
-  alt: 'Credit Card'
+  img: 'images/svg-4.png',
+  alt: 'ppl'
 }
 
 export const homeObjTwo = {
