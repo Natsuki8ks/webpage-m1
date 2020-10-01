@@ -6,11 +6,13 @@ import Home from './components/pages/Homepage/Home'
 import Footer from './components/pages/Footer/Footer'
 import Profile from './components/pages/Profile/Profile'
 import Services from './components/pages/Services/Services'
+// import { homeObjOne } from './components/pages/Homepage/Data';
 
 function App() {
   return (
     <Router>
       <Navbar />
+      {/* <Home {...homeObjOne} /> */}
       <Switch>
         <Route path='/' exact component={Home}/>
         <Route path='/profile' component={Profile} /> 

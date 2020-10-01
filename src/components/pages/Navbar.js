@@ -26,7 +26,7 @@ function Navbar() {
   const profileClick = () => {
     return (
       <Profile />,
-      setClick(false)
+      setClick(false) 
     );
   }
 
