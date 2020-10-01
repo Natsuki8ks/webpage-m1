@@ -10,7 +10,9 @@
     "react-dom": "^16.13.1",
     "react-icons": "^3.11.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,9 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "hhttps://natsuki8ks.github.io/webpage-m1/",
+  "homepage": "https://natsuki8ks.github.io/webpage-m1/",
   "devDependencies": {
     "gh-pages": "^3.1.0"
   }
-
 }
