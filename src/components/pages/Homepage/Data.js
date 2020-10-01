@@ -9,7 +9,8 @@ export const homeObjOne = {
   description: "If you can't take your credit when you do something well, you're gonna be the bottom of piles forever.",
   buttonLabel: 'Get started',
   imgStart: '',
-  img: 'images/svg-4.png',
+  // img: 'images/svg4.svg',
+  img: `${process.env.PUBLIC_URL}/images/svg-4.svg` ,
   alt: 'ppl'
 }
 

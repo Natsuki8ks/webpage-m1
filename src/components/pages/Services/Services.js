@@ -4,8 +4,8 @@ function Service() {
   return (
     <>
       <div>
-        <p style={{textAlign: 'center', fontSize: '25px'}}>No Pages</p>
-        <img src='images/svg-6.png' alt=''/>
+        <p style={{textAlign: 'center', fontSize: '25px', paddingTop: '80px'}}>May the force be with you</p>
+        <img src={`${process.env.PUBLIC_URL}/images/svg-6.svg`} alt=''/>
       </div>
     </>
   )
