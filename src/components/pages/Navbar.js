@@ -6,6 +6,7 @@ import { Button } from './Button';
 import './Navbar.css';
 import { IconContext } from 'react-icons/lib';
 import Profile from './Profile/Profile' 
+import Home from './Homepage/Home'
 
 
 function Navbar() {
@@ -14,6 +15,7 @@ function Navbar() {
 
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
+  
 
   const showButton = () => {
     if (window.innerWidth <= 960) {
@@ -26,7 +28,7 @@ function Navbar() {
   const profileClick = () => {
     return (
       <Profile />,
-      setClick(false) 
+      setClick(false)
     );
   }
 
