@@ -11,7 +11,8 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <Home />
+      {/* <Home /> */}
+      {/* これが元凶だった */}
       <Switch>
         <Route path='/' exact component={Home}/>
         <Route path='/Home'  component={Home}/>
